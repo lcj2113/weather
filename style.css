@@ -1,0 +1,25 @@
+body {
+	background-image: url(https://wallpaperaccess.com/full/58333.jpg);
+ 	background-repeat: no-repeat;
+  	background-attachment: fixed; 
+ 	background-size: cover;
+
+}
+
+.Nav {
+  position: fixed;
+  bottom: 0;
+  background: skyblue;
+  background: linear-gradient(bottom, rgba(22, 116, 141, 1), rgba(0,0,0,.1));
+  background: -webkit-linear-gradient(bottom, rgba(22, 116, 141, 1), rgba(0,0,0,.1));
+  background: -moz-linear-gradient(bottom, rgba(22, 116, 141, 1), rgba(0,0,0,.1));
+  color: lightgrey;
+  width: 100%;
+  padding: 20px;
+ transition: background 0.5s ease;
+ font-size: ;
+
+}
+#location {
+	float: center;
+}
